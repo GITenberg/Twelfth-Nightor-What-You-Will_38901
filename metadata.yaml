@@ -1,0 +1,41 @@
+_repo: Twelfth-Nightor-What-You-Will_38901
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Kemble, John Philip
+    alias: Kemble, J. P. (John Philip)
+    birthdate: 1757
+    deathdate: 1823
+    gutenberg_agent_id: '39704'
+    url: http://www.gutenberg.org/2009/agents/39704
+  - agent_name: Shakespeare, William
+    aliases:
+    - Shakspeare, William
+    - Shakspere, William
+    birthdate: 1564
+    deathdate: 1616
+    gutenberg_agent_id: '65'
+    url: http://www.gutenberg.org/2009/agents/65
+    wikipedia: http://en.wikipedia.org/wiki/William_Shakespeare
+description: ''
+gutenberg_issued: '2012-02-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38901'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Illyria -- Drama'
+- !lcsh 'Brothers and sisters -- Drama'
+- !lcsh 'Mistaken identity -- Drama'
+- !lcsh 'Twins -- Drama'
+- !lcsh 'Shipwreck survival -- Drama'
+- !lcsh 'Comedies'
+- !lcc 'PR'
+title: Twelfth Night; or, What You Will
+url: http://www.gutenberg.org/ebooks/38901
